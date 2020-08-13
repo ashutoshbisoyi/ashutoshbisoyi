@@ -1,3 +1,5 @@
+<img src="cover.png"/>
+
 ### Hi there 👋
 ## I am Ashutosh
 - 🔭 I’m currently working as a **Front-end developer**.
