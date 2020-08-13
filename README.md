@@ -1,5 +1,5 @@
 <img src="cover.png"/>
-
+[![SC2 Video](cover.mp4)](cover.mp4)
 ### Hi there 👋
 ## I am Ashutosh
 - 🔭 I’m currently working as a **Front-end developer**.
