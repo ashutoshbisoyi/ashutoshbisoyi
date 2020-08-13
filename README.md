@@ -13,6 +13,9 @@ Hey, I am Ashutosh, currently pursuing my bachelor's degree focused in Elcenctro
 I have worked with multiple organizations and start-ups and helped them to showcase their story/services by building website that is pretty efficient and more approachable. 15+ realtime websites done till now and still upgrading to new technologies with the trend.
 
 Besides developing web pages, I am quite passionate about dancing, anchoring, and acting. 
+[![Linkedin Badge](https://img.shields.io/badge/-ashutoshbisoyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutoshbisoyi/)](https://www.linkedin.com/in/ashutoshbisoyi/)
+[![Instagram Badge](https://img.shields.io/badge/-ashutoshbisoyi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ashutoshbisoyi/)](https://instagram.com/ashutoshbisoyi)
+[![Gmail Badge](https://img.shields.io/badge/-ashutoshbisoyi205@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashutoshbisoyi205@gmail.com)](mailto:kanna6501@gmail.com)
 
 ## Weapons I use
 
