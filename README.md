@@ -13,3 +13,5 @@ I am an **ECE undergraduate**, and a **Front-end web developer** from **Odisha**
 I have worked with multiple organizations and start-ups and helped them to showcase their story/services by building website that is pretty efficient and more approachable. 15+ realtime websites done till now and still upgrading to new technologies with the trend.
 
 Besides developing web pages, I am quite passionate about dancing, anchoring, and acting. 
+
+[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshbisoyi)](https://github.com/anuraghazra/github-readme-stats)
