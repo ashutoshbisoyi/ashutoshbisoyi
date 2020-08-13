@@ -1,4 +1,4 @@
-<img src="cover-image.png"/>
+<img src="https://github.com/ashutoshbisoyi/ashutoshbisoyi/blob/master/cover-image.png"/>
 
 ### Hi there 👋
 ## I am Ashutosh
