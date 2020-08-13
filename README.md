@@ -1,4 +1,4 @@
-<img src="coverimage.png"/>
+<img src="cover-image.png"/>
 
 ### Hi there 👋
 ## I am Ashutosh
