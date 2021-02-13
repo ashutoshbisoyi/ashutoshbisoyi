@@ -4,7 +4,7 @@
 ## I am Ashutosh
 - 🔭 I’m currently working as a **Front-end developer**.
 - 🌱 Learning **React JS** and seriously, I'm just loving it 💙
-- 👯 I’m looking to collaborate on Front-end projects or Web appliations.
+- 👯 I’m looking to collaborate on Front-end projects or Web applications.
 - 💬 I'll love to discuss about your new ideas and creations, just drop a message.
 - 📫 You can always reach me via [LinkedIn](https://www.linkedin.com/in/ashutoshbisoyi/) or [Email](mailto:ashutoshbisoyi205@gmail.com)
 - ⚡ Fun fact: I am a **Chocolates Lover**, Send me some before we start our discussion on a new project
