@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Front-end projects or Web applications.
 - 💬 I'll love to discuss about your new ideas and creations, just drop a message.
 - 📫 You can always reach me via [LinkedIn](https://www.linkedin.com/in/ashutoshbisoyi/) or [Email](mailto:ashutoshbisoyi205@gmail.com)
-- ⚡ Fun fact: I am a **Chocolates Lover**, Send me some before we start our discussion on a new project
+- ⚡ Fun fact: I am a **Chocolate Lover**, Send me some before we start our discussion on a new project
 
 ## About Me
 Hey, I am Ashutosh, currently pursuing my bachelor's degree focused in Elcenctronics and Communication Engineering from [GIET University](https://www.giet.edu/). Along with studies, I'm working as a Front-end developer. I have a serious passion for exploring new ideas and formatting them digitally as a website. I'm pretty familiar with developing interactive front-end websites, building single-page applications, and API integrations.
