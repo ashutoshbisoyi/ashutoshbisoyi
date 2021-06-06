@@ -1,8 +1,5 @@
-
-
-### Hi I am Ashutosh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## I am Ashutosh
-- 💻 Working as an intern in the role of a front-end developer.
+## Hi I am Ashutosh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- 💻 Cuurently Working as an intern in the role of a front-end developer.
 - 🌱 Learning new trends in frontend development.
 - 👯 I’m looking to collaborate on Front-end projects. We can always discuss a new idea for web.
 - 📫 You can always reach me via [LinkedIn](https://www.linkedin.com/in/ashutoshbisoyi/) or [Email](mailto:ashutoshbisoyi205@gmail.com)
