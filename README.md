@@ -17,16 +17,16 @@ Besides developing web applications, I am quite passionate about dancing, anchor
 
 ## Languages and Tools
 
-<p align="center">
+<p align="left">
+<img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma">&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5">&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3">&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript">&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap">&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python">&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react">&nbsp;&nbsp;&nbsp;
- <img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma">&nbsp;&nbsp;&nbsp;
- <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass">&nbsp;&nbsp;&nbsp;
- <img height="40" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel">&nbsp;&nbsp;&nbsp;
+ <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass">&nbsp;&nbsp;&nbsp;
+ <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" alt="babel">&nbsp;&nbsp;&nbsp;
  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="babel">&nbsp;&nbsp;&nbsp;
 </p>
 
